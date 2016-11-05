@@ -1,0 +1,8 @@
+1.尽量用props, no state (props是只读的)
+state用setState修改
+
+
+
+2.最小化state
+
+3.如果props和state能够相互配合,就不要事先保存在状态信息里,而是放在render里

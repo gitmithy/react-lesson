@@ -1,0 +1,30 @@
+init
+
+defaultProps(share)->run 1 getDefaultProps(){return{group:123}}->React.createClass()
+
+readonly
+
+state->getInitialState(){return{}}//es6 constructor(){this.state={}}
+     ->new Item()
+
+     private write
+
+mount
+
+    componentWillMount
+        state
+
+    componentDidMount
+        dom
+        other framework
+        ajax server data
+
+update
+
+    will
+
+    did
+
+    render(info){
+        return(<Item group={info} />)
+    }

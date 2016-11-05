@@ -1,0 +1,18 @@
+https://facebook.github.io/react/docs/getting-started.html
+
+jsx
+html+javascript=>javascript
+
+运用jsx
+jsx的本质
+虚拟DOM
+
+HTML Element DOM
+React
+Element
+Component
+
+组件的输入props输出是Element(render())
+
+Element描述
+<div><span></span></div>
